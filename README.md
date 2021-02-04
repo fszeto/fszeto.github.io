@@ -1,2 +1,3 @@
 # fszeto.github.io
-Personal Site
+My Personal Site
+Link: faithszeto.com
